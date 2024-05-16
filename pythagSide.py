@@ -24,6 +24,11 @@ hypotenus = float(input('Please enter the length of the hypotenus in inches: '))
   # a**2 = c**2 - b**2
   # a = (c**2 - b**2)**0.5
 
+calculated_side = (hypotenus**2 - given_side**2)**0.5
+
+print('\nThe length of the calculated side is',calculated_side)
+
 # Display results
 
 #Thank user for using program (Goodbye message)
+print('\nThank you for using super side calculator 3000!')
