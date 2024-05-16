@@ -11,7 +11,8 @@ print('The best Pythagorean Side Calculator in the multiverse! \n')
 print('Use this program to calculate the length of the side of a right triange')
 print('given the length of one side of the hypotenus.\n')
 
-# Get lenght of one size from the user
+# Get length of one size from the user
+given_side = float(input('Please enter the length of the given side: '))
 
 # Get length of the hypotenuse (opposite side from right angle)
 
