@@ -5,6 +5,10 @@
 # using the pythagorean formuola
 
 # Display a header explaining the program 
+print('Welcome to Super Pythagorean Side Calculator 3000!')
+print('The best Pythagorean Side Calculator in the multiverse!')
+print('Use this program to calculate the length of the side of a right triange')
+print('given the length of one side of the hypotenus.')
 
 # Get lenght of one size from the user
 
