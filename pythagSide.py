@@ -12,5 +12,8 @@
 
 # Calculate the length of the side
 
-# a^2 + b^2 = c^2
-# 
+# Formula:
+  # a**2 + b**2 = c**2 (** = squared)
+  # a**2 = c**2 - b**2
+  # a = (c**2 - b**2)**0.5
+
