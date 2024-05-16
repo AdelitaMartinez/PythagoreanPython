@@ -1,14 +1,15 @@
-# PythanSide.py
+# PythagSide.py
 # Programmer: Adelita Martinez (amartinez1013@gmail.com)
 # date: 16 May 2024
 # Purpose: Find the length of the side of a right triangle
 # using the pythagorean formuola
 
 # Display a header explaining the program 
+# \n gives you a line break
 print('Welcome to Super Pythagorean Side Calculator 3000!')
-print('The best Pythagorean Side Calculator in the multiverse!')
+print('The best Pythagorean Side Calculator in the multiverse! \n')
 print('Use this program to calculate the length of the side of a right triange')
-print('given the length of one side of the hypotenus.')
+print('given the length of one side of the hypotenus.\n')
 
 # Get lenght of one size from the user
 
