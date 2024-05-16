@@ -2,7 +2,7 @@
 # Programmer: Adelita Martinez (amartinez1013@gmail.com)
 # date: 16 May 2024
 # Purpose: Find the length of the side of a right triangle
-# using the pythagorean formuola
+# using the pythagorean formula
 
 # Display a header explaining the program 
 # \n gives you a line break
