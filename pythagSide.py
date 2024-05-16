@@ -12,9 +12,10 @@ print('Use this program to calculate the length of the side of a right triange')
 print('given the length of one side of the hypotenus.\n')
 
 # Get length of one size from the user
-given_side = float(input('Please enter the length of the given side: '))
+given_side = float(input('Please enter the length of the given side in inches: '))
 
 # Get length of the hypotenuse (opposite side from right angle)
+hypotenus = float(input('Please enter the length of the hypotenus in inches: '))
 
 # Calculate the length of the side
 
