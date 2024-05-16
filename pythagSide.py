@@ -17,3 +17,6 @@
   # a**2 = c**2 - b**2
   # a = (c**2 - b**2)**0.5
 
+# Display results
+
+#Thank user for using program (Goodbye message)
