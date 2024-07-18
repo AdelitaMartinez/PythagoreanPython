@@ -1,5 +1,5 @@
 # PythagSide.py
-# Programmer: Adelita Martinez (amartinez1013@gmail.com)
+# Programmer: Adelita Martinez
 # date: 16 May 2024
 # Purpose: Find the length of the side of a right triangle
 # using the pythagorean formula
@@ -32,3 +32,4 @@ print('\nThe length of the calculated side is',calculated_side)
 
 #Thank user for using program (Goodbye message)
 print('\nThank you for using super side calculator 3000!')
+
